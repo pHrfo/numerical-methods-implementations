@@ -3,4 +3,4 @@ Implementations for some numerical methods in C++ for the course CK0048 - Métod
 Developed by Pedro Henrique Carvalho.
 
 ## Requirements
-Requires C++ with QT Creator IDE. To execute any of the projects, just import the .qt file to the IDE and run.
+Requires C++ with QT Creator IDE. To execute any of the projects, just import the .pro file to the IDE and run.
